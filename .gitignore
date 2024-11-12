@@ -1,0 +1,12 @@
+vendor/
+target/
+node_modules/
+.idea/
+.DS_Store
+.vscode/
+.vscode-test/
+.vscode-test-server/
+.vscode-test-server-wrapped/
+*.log
+*.log.*
+*.pem
